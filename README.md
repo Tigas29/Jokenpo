@@ -33,17 +33,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com), insta
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Tigas29/Jokenpo.git
+$git clone https://github.com/Tigas29/Jokenpo.git
 
 # Go into the repository
 
 # Open the .html to see de project
 
-
 ```
 ## :information_source:[Result!](https://jokenpo-lyart-mu.vercel.app/)
-
-
-<img src="https://github.com/Tigas29/IMC-CALCULATOR/blob/main/assetsReadme/result.png?raw=true" width="800">
 
 Made with ♥ by Tiago Santos :wave: [Get in touch!](https://www.linkedin.com/in/tiagosantos-dev/)
