@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="scipt.js" defer></script>
+</head>
+
+<body>
+    <main>
+        <div class="box">
+            <button id="pedra" onclick="playhuman('pedra')">pedra</button>
+            <button id="papel" onclick="playhuman('papel')">papel</button>
+            <button id="tesoura" onclick="playhuman('tesoura')">tesoura</button>
+        </div>
+        <p>Sua pontuação <span id="humanScore">0</span></p>
+        <p>Pontuação da Alexa: <span id="alexaScore">0</span></p>
+    </main>
+</body>
+
+<style>
+    body {
+        background-color: black;
+    }
+
+    p {
+        font-weight: bold;
+        color: white;
+    }
+
+    main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: 100vh;
+    }
+</style>
+
+</html>
